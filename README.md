@@ -1,2 +1,1 @@
-# Demos
-This folder will contain demos of my past projects.
+This folder will eventually have some usefull information.
